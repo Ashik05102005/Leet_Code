@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2942-find-words-containing-character](https://github.com/Ashik05102005/Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashik05102005/Leet_Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/Ashik05102005/Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2235-add-two-integers](https://github.com/Ashik05102005/Leet_Code/tree/master/2235-add-two-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashik05102005/Leet_Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Ashik05102005/Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
