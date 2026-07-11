@@ -4,6 +4,5 @@
  */
 var mirrorDistance = function(n) {
     const rev = n.toString().split("").reverse().join("");
-    console.log(rev)
-    return Math.abs(n-Number(rev))
+    return Math.abs(n-(+rev))
 };
