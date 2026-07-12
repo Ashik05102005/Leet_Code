@@ -33,10 +33,8 @@ var scoreOfString = function(s) {
                             };
     const arr = s.split("");
     let sum = 0 ;
-    for (let i = 0 ; i < arr.length ; i++ ){
-        if(i!==arr.length - 1){
+    for (let i = 0 ; i < arr.length-1 ; i++ ){
             sum += Math.abs(asciiLowercase[arr[i]]-asciiLowercase[arr[i+1]]);
-        } 
     }
     return sum
 };
