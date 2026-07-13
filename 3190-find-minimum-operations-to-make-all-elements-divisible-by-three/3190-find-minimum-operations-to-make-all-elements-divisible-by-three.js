@@ -4,11 +4,10 @@
  */
 var minimumOperations = function(nums) {
     let count = 0 ;
-    nums.forEach((x)=>{
-        if(x%3!==0){
-            console.log(x)
+    for(let i = 0  ; i < nums.length ; i++ ){
+        if(nums[i]%3!==0){
             count ++ ;
         }
-    })
+    }
     return count;
 };
