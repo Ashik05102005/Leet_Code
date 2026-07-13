@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashik05102005/Leet_Code/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Ashik05102005/Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ashik05102005/Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashik05102005/Leet_Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Ashik05102005/Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashik05102005/Leet_Code/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ashik05102005/Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
