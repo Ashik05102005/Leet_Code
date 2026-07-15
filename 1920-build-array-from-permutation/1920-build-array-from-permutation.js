@@ -3,7 +3,6 @@
  * @return {number[]}
  */
 var buildArray = function(nums) {
-    console.log(nums)
     let arr = []
     for(let i = 0 ; i<nums.length ; i++ ){
         arr = [...arr , nums[nums[i]]]
