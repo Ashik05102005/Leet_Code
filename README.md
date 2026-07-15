@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashik05102005/Leet_Code/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
+| [1920-build-array-from-permutation](https://github.com/Ashik05102005/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashik05102005/Leet_Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/Ashik05102005/Leet_Code/tree/master/2942-find-words-containing-character) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ashik05102005/Leet_Code/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/Ashik05102005/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashik05102005/Leet_Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3701-compute-alternating-sum) |
