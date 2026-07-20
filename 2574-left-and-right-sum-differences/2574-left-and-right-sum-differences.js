@@ -13,7 +13,5 @@ var leftRightDifference = function(nums) {
     }
     seccondArray.reverse()
     return  firstArray.map(( item , index)=>Math.abs(item -seccondArray[index]))
-    console.log(res)
-    console.log(resView)
 
 };
