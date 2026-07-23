@@ -4,8 +4,6 @@
  */
 var convertDateToBinary = function(date) {
     let dateArray=date.split("-").map(x=>Number(x));
-    console.log(dateArray);
-
     const result = dateArray.map((x)=>{
         let res=''
         while(x>0){
