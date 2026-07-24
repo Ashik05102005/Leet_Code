@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [1672-richest-customer-wealth](https://github.com/Ashik05102005/Leet_Code/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/Ashik05102005/Leet_Code/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Ashik05102005/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ashik05102005/Leet_Code/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Ashik05102005/Leet_Code/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Ashik05102005/Leet_Code/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/Ashik05102005/Leet_Code/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Ashik05102005/Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/3110-score-of-a-string) |
