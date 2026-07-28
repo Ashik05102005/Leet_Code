@@ -9,6 +9,6 @@ var reversePrefix = function(s, k) {
     for(let i =0 ; i<k ; i++){
         res.push(strArray.shift())
     }
-    const rev = res.reverse()
-    return rev.join("")+strArray.join("")
+
+    return (res.reverse().join("")+strArray.join(""));
 };
