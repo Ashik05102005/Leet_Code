@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Ashik05102005/Leet_Code/tree/master/3280-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashik05102005/Leet_Code/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Ashik05102005/Leet_Code/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashik05102005/Leet_Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/Ashik05102005/Leet_Code/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
