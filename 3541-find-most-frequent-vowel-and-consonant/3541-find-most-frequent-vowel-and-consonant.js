@@ -5,7 +5,7 @@
 var maxFreqSum = function(s) {
     const vowels = ['a','e','i','o','u'] ;
     let charObj = {}
-    let vowelsCount=[]  , consonantsCount = [] ;
+    // let vowelsCount=[]  , consonantsCount = [] ;
     let vowelMax = 0 , consonantsMax = 0;
     s.split("").forEach((char)=>{
         if(charObj[char]){
