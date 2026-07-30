@@ -3,12 +3,10 @@
  * @return {number}
  */
 var minimumPushes = function(word) {
-    // console.log(word)
     count = 0;
     const wordArray = word.split("")
     const resArr = []
     for(i = 0 ; i < wordArray.length/8; i++){
-
         const Arr = [];
         for(j = i*8 ; j<(i+1)*8 ; j++ ){
             Arr.push(wordArray[j])
