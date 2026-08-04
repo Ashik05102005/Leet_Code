@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashik05102005/Leet_Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Ashik05102005/Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Ashik05102005/Leet_Code/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ashik05102005/Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashik05102005/Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Ashik05102005/Leet_Code/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashik05102005/Leet_Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Ashik05102005/Leet_Code/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Ashik05102005/Leet_Code/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashik05102005/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
