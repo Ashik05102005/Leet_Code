@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Ashik05102005/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ashik05102005/Leet_Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Ashik05102005/Leet_Code/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ashik05102005/Leet_Code/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2396-strictly-palindromic-number) |
@@ -153,4 +155,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
