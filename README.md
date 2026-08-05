@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Ashik05102005/Leet_Code/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashik05102005/Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashik05102005/Leet_Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Ashik05102005/Leet_Code/tree/master/3794-reverse-string-prefix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Ashik05102005/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashik05102005/Leet_Code/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ashik05102005/Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
