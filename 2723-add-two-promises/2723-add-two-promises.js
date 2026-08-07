@@ -6,9 +6,9 @@
 var addTwoPromises = async function(promise1, promise2) {
     try{
     const p1 = await promise1;
-    console.log(p1)
+    // console.log(p1)
     const p2 = await promise2;
-    console.log(p2)
+    // console.log(p2)
     return p1 + p2
     }
     catch(error){
