@@ -3,6 +3,6 @@
  * @return {number}
  */
 var mostWordsFound = function(sentences) {
-   const words = sentences.map(x=>x.split(" ").length);
-   return Math.max(...words)
+//    const words = sentences.map(x=>x.split(" ").length);
+   return Math.max(...(sentences.map(x=>x.split(" ").length)))
 };
