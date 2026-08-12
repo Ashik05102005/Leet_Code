@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Ashik05102005/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashik05102005/Leet_Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Ashik05102005/Leet_Code/tree/master/2235-add-two-integers) |
