@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashik05102005/Leet_Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Ashik05102005/Leet_Code/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2396-strictly-palindromic-number) |
+| [2652-sum-multiples](https://github.com/Ashik05102005/Leet_Code/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ashik05102005/Leet_Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
