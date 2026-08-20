@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Ashik05102005/Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/Ashik05102005/Leet_Code/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Ashik05102005/Leet_Code/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ashik05102005/Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashik05102005/Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashik05102005/Leet_Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Ashik05102005/Leet_Code/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Ashik05102005/Leet_Code/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/Ashik05102005/Leet_Code/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ashik05102005/Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
