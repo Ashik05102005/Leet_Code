@@ -19,7 +19,7 @@ var mapWordWeights = function(words, weights) {
     const sum = res.map((mainItem)=> mainItem.reduce((acc,item)=>acc+=item))
     const result = sum.map((item)=>{
         const index = item%26;
-        console.log(index)
+        // console.log(index)
         return reversed[index]
     });
     return result.join("")
