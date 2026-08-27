@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Ashik05102005/Leet_Code/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1486-xor-operation-in-an-array) |
 ## Number Theory
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashik05102005/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Ashik05102005/Leet_Code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
