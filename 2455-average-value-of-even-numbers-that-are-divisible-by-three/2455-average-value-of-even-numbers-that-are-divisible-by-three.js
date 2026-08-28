@@ -8,8 +8,7 @@
 var averageValue = function(nums) {
     let array=nums.filter((num)=>num%2===0 && num%3===0)
     if(array.length){
-    const sum=array.reduce((acc,num)=>acc+num,0)
-    return Math.floor(sum/array.length);
+    return Math.floor(array.reduce((acc,num)=>acc+num,0)/array.length);
     }
     return 0
 };
