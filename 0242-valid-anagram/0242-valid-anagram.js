@@ -22,8 +22,6 @@ var isAnagram = function(s, t) {
             tObj[x]=1
         }
     });
-    console.log(tObj)
-    console.log(sObj);
     if(Object.keys(tObj).length===Object.keys(sObj).length){
         for(let i in tObj){
             if(tObj[i]!==sObj[i]){
