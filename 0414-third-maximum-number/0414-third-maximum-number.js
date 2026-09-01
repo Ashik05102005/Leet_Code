@@ -5,7 +5,7 @@
 var thirdMax = function(nums) {
     const newNums = new Set(nums) ;
     const array = [...newNums].sort((a,b)=>b-a) ;
-    console.log(array);
+    // console.log(array);
     if(array.length<3){
         return Math.max(...array)
     }
