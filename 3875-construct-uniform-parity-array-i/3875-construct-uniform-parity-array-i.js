@@ -3,6 +3,6 @@
  * @return {boolean}
  */
 var uniformArray = function(nums1) {
-    // const i =0 ;
-    return 0===0
+    return true
+
 };
