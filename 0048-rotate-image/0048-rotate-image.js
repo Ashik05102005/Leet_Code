@@ -9,10 +9,8 @@ var rotate = (matrix) => {
     for(let i=0;i<newMatrix.length;i++){
         const row = []
         for(let j=0 ; j<newMatrix.length;j++){
-            row.push(newMatrix[j][i]);
+            row.unshift(newMatrix[j][i]);
         }
-        // console.log(row)
-        matrix[i]=row.reverse()
+        matrix[i]=row
     };
-    // return (rowsArray.map(item=>item.reverse()))
 };
