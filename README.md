@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashik05102005/Leet_Code/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Ashik05102005/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ashik05102005/Leet_Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Ashik05102005/Leet_Code/tree/master/0412-fizz-buzz) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Ashik05102005/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ashik05102005/Leet_Code/tree/master/1672-richest-customer-wealth) |
