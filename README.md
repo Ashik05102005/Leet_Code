@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashik05102005/Leet_Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Ashik05102005/Leet_Code/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Ashik05102005/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashik05102005/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Ashik05102005/Leet_Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ashik05102005/Leet_Code/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ashik05102005/Leet_Code/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Ashik05102005/Leet_Code/tree/master/1108-defanging-an-ip-address) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashik05102005/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Ashik05102005/Leet_Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashik05102005/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ashik05102005/Leet_Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashik05102005/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
