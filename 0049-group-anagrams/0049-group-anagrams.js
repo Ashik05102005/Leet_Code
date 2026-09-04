@@ -8,7 +8,7 @@ var groupAnagrams = function(strs) {
     };
     const copy = structuredClone(strs);
     const sorted = copy.map((item)=>item.split("").sort((a,b)=>a.localeCompare(b)).join(""));
-    console.log(sorted);
+    // console.log(sorted);
     const obj ={};
     sorted.forEach((item,index)=>{
         if(!obj[item]){
