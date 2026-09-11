@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Ashik05102005/Leet_Code/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashik05102005/Leet_Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Ashik05102005/Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3701-compute-alternating-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashik05102005/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashik05102005/Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Ashik05102005/Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/3731-find-missing-elements) |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashik05102005/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
