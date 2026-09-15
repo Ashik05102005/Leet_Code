@@ -13,8 +13,6 @@ var chunk = function (arr, size) {
             }
         };
         res.push(array)
-
-        // for
     }
     return res
 };
