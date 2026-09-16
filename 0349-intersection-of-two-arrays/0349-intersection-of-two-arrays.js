@@ -8,7 +8,6 @@ var intersection = function(nums1, nums2) {
     nums1.forEach(num=>{
         if(nums2.includes(num)&&!res.includes(num)){
             res.push(num)
-            // console.log(num)
         }
     });
     return(res)
