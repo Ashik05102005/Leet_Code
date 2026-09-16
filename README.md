@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashik05102005/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashik05102005/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Ashik05102005/Leet_Code/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashik05102005/Leet_Code/tree/master/2000-reverse-prefix-of-word) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashik05102005/Leet_Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ashik05102005/Leet_Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashik05102005/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashik05102005/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
