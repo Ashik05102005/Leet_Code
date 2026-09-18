@@ -14,11 +14,8 @@ var majorityElement = function(nums) {
     });
     let top=0;
     let value=Object.values(obj)[0];
-    console.log(value)
     for(let i in obj){
-        console.log(i,":",obj[i])
         if(obj[i]>=value){
-            console.log(i)
             top = i
             value=obj[i]
         }
