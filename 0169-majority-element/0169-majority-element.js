@@ -7,7 +7,6 @@ var majorityElement = function (nums) {
         object[item] = (object[item] || 0) + 1;
         return object
     }, {});
-    console.log(obj)
     let top = 0;
     let value = Object.values(obj)[0];
     for (let i in obj) {
