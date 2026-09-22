@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ashik05102005/Leet_Code/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Ashik05102005/Leet_Code/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Ashik05102005/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashik05102005/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ashik05102005/Leet_Code/tree/master/0169-majority-element) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ashik05102005/Leet_Code/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Ashik05102005/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
 ## Minimax
 |  |
