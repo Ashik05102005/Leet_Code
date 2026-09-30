@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashik05102005/Leet_Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ashik05102005/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashik05102005/Leet_Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ashik05102005/Leet_Code/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ashik05102005/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Ashik05102005/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ashik05102005/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashik05102005/Leet_Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Ashik05102005/Leet_Code/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashik05102005/Leet_Code/tree/master/2000-reverse-prefix-of-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ashik05102005/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashik05102005/Leet_Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/Ashik05102005/Leet_Code/tree/master/3794-reverse-string-prefix) |
