@@ -5,6 +5,7 @@
 var rearrangeArray = function (nums) {
     let pos = []
     let neg = []
+    // res = []
     nums.forEach((num) => {
         if (num < 0) {
             neg.push(num)
