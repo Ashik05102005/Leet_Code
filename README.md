@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashik05102005/Leet_Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ashik05102005/Leet_Code/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Ashik05102005/Leet_Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ashik05102005/Leet_Code/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ashik05102005/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashik05102005/Leet_Code/tree/master/0119-pascals-triangle-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Ashik05102005/Leet_Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ashik05102005/Leet_Code/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Ashik05102005/Leet_Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
