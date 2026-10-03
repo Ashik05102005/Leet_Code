@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Ashik05102005/Leet_Code/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashik05102005/Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashik05102005/Leet_Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/Ashik05102005/Leet_Code/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Ashik05102005/Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashik05102005/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2325-decode-the-message](https://github.com/Ashik05102005/Leet_Code/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashik05102005/Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
