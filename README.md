@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashik05102005/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ashik05102005/Leet_Code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Ashik05102005/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashik05102005/Leet_Code/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ashik05102005/Leet_Code/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Ashik05102005/Leet_Code/tree/master/1108-defanging-an-ip-address) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashik05102005/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ashik05102005/Leet_Code/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Ashik05102005/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashik05102005/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
