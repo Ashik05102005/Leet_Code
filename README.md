@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashik05102005/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ashik05102005/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashik05102005/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashik05102005/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashik05102005/Leet_Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashik05102005/Leet_Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ashik05102005/Leet_Code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashik05102005/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashik05102005/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashik05102005/Leet_Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashik05102005/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Ashik05102005/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ashik05102005/Leet_Code/tree/master/1672-richest-customer-wealth) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Ashik05102005/Leet_Code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ashik05102005/Leet_Code/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashik05102005/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
