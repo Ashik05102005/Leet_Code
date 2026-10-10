@@ -1,8 +1,8 @@
 class Solution:
     def countDigits(self, num: int) -> int:
-        digits = list(map(lambda char : int(char) , str(num) ))
+        # digits = list(map(lambda char : int(char) , str(num) ))
         count = 0
-        for digit in digits :
+        for digit in list(map(lambda char : int(char) , str(num) )) :
             if num % digit == 0 :
                 count += 1
         
