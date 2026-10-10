@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Ashik05102005/Leet_Code/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ashik05102005/Leet_Code/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Ashik05102005/Leet_Code/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ashik05102005/Leet_Code/tree/master/2769-find-the-maximum-achievable-number) |
