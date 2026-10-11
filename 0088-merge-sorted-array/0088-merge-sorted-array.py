@@ -3,7 +3,6 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        i=0
         for index in range(m,len(nums1)):
             nums1.pop(m)
         nums1.extend(nums2[0:n])
