@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -338,5 +339,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
