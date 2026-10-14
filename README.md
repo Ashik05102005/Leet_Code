@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ashik05102005/Leet_Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Ashik05102005/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/Ashik05102005/Leet_Code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Ashik05102005/Leet_Code/tree/master/1260-shift-2d-grid) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashik05102005/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Ashik05102005/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashik05102005/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2325-decode-the-message](https://github.com/Ashik05102005/Leet_Code/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ashik05102005/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashik05102005/Leet_Code/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ashik05102005/Leet_Code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
