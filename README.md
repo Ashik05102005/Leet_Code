@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ashik05102005/Leet_Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ashik05102005/Leet_Code/tree/master/0066-plus-one) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
