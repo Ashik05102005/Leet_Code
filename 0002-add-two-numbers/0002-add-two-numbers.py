@@ -7,7 +7,6 @@ class ListNode:
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
-        print(l1.val)
         def get_list (head) :
             res = []
             result = 0
@@ -33,7 +32,6 @@ class Solution:
         
         total = get_list(l1) + get_list(l2)
         total = list(map(lambda num : int(num) , str(total)))
-        print(total)
         
         head = l1 
         new_node = None
@@ -50,12 +48,6 @@ class Solution:
             current.val = value
             current = current.next
             
-            # if current
-        
-        current = head 
-        while current :
-            print(current.val)
-            current = current.next
 
         return l1
 
