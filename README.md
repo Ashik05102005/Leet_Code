@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
