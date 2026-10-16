@@ -16,8 +16,6 @@ class Solution:
             current = current.next
         sorted_list.sort()
 
-        print(sorted_list)
-
         current = head 
         i = 0
         while current :
