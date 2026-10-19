@@ -1,6 +1,6 @@
 class Solution:
     def targetIndices(self, nums: list[int], target: int) -> list[int]:
-        nums.sort()
+        nums = sorted(nums)
         res = []
         for index , num in enumerate(nums) :
             if num == target :
