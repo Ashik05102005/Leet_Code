@@ -24,11 +24,11 @@ class Solution:
         current = head
         for _ in range(1,n - 1):
             current= current.next
-        # print(current.val)
+
 
         if n == 1 :
             return (rev(current.next))
-        print(current.val)
+
         if current.next is not None :
             current.next = current.next.next
             return rev(head)
