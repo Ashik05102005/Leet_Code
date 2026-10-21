@@ -18,7 +18,7 @@ class Solution:
             i += 1
             current = current.next
         start.next = list2 
-        current = start 
+        current = list2 
         while current.next :
             current = current.next 
         current.next = end
