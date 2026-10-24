@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ashik05102005/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashik05102005/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ashik05102005/Leet_Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ashik05102005/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashik05102005/Leet_Code/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ashik05102005/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashik05102005/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ashik05102005/Leet_Code/tree/master/1669-merge-in-between-linked-lists) |
