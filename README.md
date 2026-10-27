@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ashik05102005/Leet_Code/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Ashik05102005/Leet_Code/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ashik05102005/Leet_Code/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashik05102005/Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Ashik05102005/Leet_Code/tree/master/2418-sort-the-people) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Ashik05102005/Leet_Code/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashik05102005/Leet_Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Ashik05102005/Leet_Code/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashik05102005/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ashik05102005/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ashik05102005/Leet_Code/tree/master/1672-richest-customer-wealth) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Ashik05102005/Leet_Code/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ashik05102005/Leet_Code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
