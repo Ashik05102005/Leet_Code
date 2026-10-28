@@ -6,8 +6,9 @@ class Solution:
         for word in text_list :
             flag = True 
             for char  in b_list :
-                if char in word and flag:
+                if char in word :
                     count -= 1
-                    flag = False
+                    break
+                
         return count
 
