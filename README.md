@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Ashik05102005/Leet_Code/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Ashik05102005/Leet_Code/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashik05102005/Leet_Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Ashik05102005/Leet_Code/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Ashik05102005/Leet_Code/tree/master/3895-count-digit-appearances) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Ashik05102005/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashik05102005/Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashik05102005/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashik05102005/Leet_Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashik05102005/Leet_Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashik05102005/Leet_Code/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Ashik05102005/Leet_Code/tree/master/3870-count-commas-in-range) |
