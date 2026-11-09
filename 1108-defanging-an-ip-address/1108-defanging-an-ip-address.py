@@ -8,6 +8,8 @@ class Solution:
         for i in range(len(str_list)) :
             if str_list[i] == '.' :
                 str_list[i] = '[.]'
+            if '.' not in address :
+                break
         return "".join(str_list)
 
         
