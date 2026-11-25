@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ashik05102005/Leet_Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashik05102005/Leet_Code/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Ashik05102005/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashik05102005/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ashik05102005/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashik05102005/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ashik05102005/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashik05102005/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ashik05102005/Leet_Code/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Ashik05102005/Leet_Code/tree/master/2574-left-and-right-sum-differences) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ashik05102005/Leet_Code/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ashik05102005/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
